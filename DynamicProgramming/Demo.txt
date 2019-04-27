@@ -1,0 +1,14 @@
+You are given a list of N items. Each item has a weight(w) and a price(p). You want to sell the items and gain some money. But total weight of sold items can not be greater than W. You're allowed to take a percentage of an item. Write a program to find out the maximum profit you can gain by selling the items.
+
+Input: The first line of the input contains two integers N, W (1 <= N, W <= 100). Each of the next N lines contains two integers wi and pi (1 <= i <= N).
+
+Output: There will be a single line of output denoting the maximum price you can gain by selling the items.
+
+Sample Input:
+3 10
+6 4
+5 5
+3 4
+
+Sample Output:
+10.33
